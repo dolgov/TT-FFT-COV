@@ -1,6 +1,6 @@
 # TT-FFT-COV
 Field generation and kriging using circulant covariance matrix and Tensor Train (TT) approximations
-for the paper "Kriging in Tensor Train data format" by Sergey Dolgov, Alexander Litvinenko and Dishi Liu.
+for the paper "Kriging in Tensor Train data format" by Sergey Dolgov, Alexander Litvinenko and Dishi Liu [[arXiv:1904.09668](https://arxiv.org/abs/1904.09668)].
 
 This package consists of two drivers:
  * driver_generate_field.m: generates a random field given a circulant covariance matrix, using superposition of a Cartesian product of iid normal vectors.
